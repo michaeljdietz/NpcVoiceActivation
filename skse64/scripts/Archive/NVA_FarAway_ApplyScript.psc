@@ -1,0 +1,1 @@
+scriptname NVA_FarAway_ApplyScript extends ActiveMagicEffect
