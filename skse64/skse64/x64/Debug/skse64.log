@@ -1,0 +1,164 @@
+﻿  Translation.cpp
+  skse64.cpp
+  Serialization.cpp
+  ScaleformVM.cpp
+  ScaleformValue.cpp
+  ScaleformTypes.cpp
+  ScaleformState.cpp
+  ScaleformMovie.cpp
+  ScaleformLoader.cpp
+  ScaleformExtendedData.cpp
+  ScaleformCallbacks.cpp
+  ScaleformAPI.cpp
+  PluginManager.cpp
+  PapyrusWornObject.cpp
+  PapyrusWeather.cpp
+  PapyrusWeapon.cpp
+  PapyrusVM.cpp
+  PapyrusValue.cpp
+  PapyrusUtility.cpp
+  PapyrusUICallback.cpp
+  Generating Code...
+  Compiling...
+  PapyrusUI.cpp
+  PapyrusTree.cpp
+  PapyrusTextureSet.cpp
+  PapyrusStringUtil.cpp
+  PapyrusSpell.cpp
+  PapyrusSpawnerTask.cpp
+  PapyrusSoundDescriptor.cpp
+  PapyrusSound.cpp
+  PapyrusSKSE.cpp
+  PapyrusShout.cpp
+  PapyrusScroll.cpp
+  PapyrusReferenceAlias.cpp
+  PapyrusRace.cpp
+  PapyrusQuest.cpp
+  PapyrusPotion.cpp
+  PapyrusPerk.cpp
+  PapyrusObjects.cpp
+  PapyrusObjectReference.cpp
+  PapyrusNetImmerse.cpp
+  PapyrusNativeFunctions.cpp
+  Generating Code...
+  Compiling...
+  PapyrusModEvent.cpp
+  PapyrusMisc.cpp
+  PapyrusMath.cpp
+  PapyrusMagicEffect.cpp
+  PapyrusLeveledSpell.cpp
+  PapyrusLeveledItem.cpp
+  PapyrusLeveledActor.cpp
+  PapyrusKeyword.cpp
+  PapyrusInterfaces.cpp
+  PapyrusInput.cpp
+  PapyrusIngredient.cpp
+  PapyrusHeadPart.cpp
+  PapyrusGameData.cpp
+  PapyrusGame.cpp
+  PapyrusFormList.cpp
+  PapyrusForm.cpp
+  PapyrusFlora.cpp
+  PapyrusFaction.cpp
+  PapyrusEvents.cpp
+  PapyrusEquipSlot.cpp
+  Generating Code...
+  Compiling...
+  PapyrusEnchantment.cpp
+  PapyrusDelayFunctors.cpp
+  PapyrusDefaultObjectManager.cpp
+  PapyrusConstructibleObject.cpp
+  PapyrusCombatStyle.cpp
+  PapyrusColorForm.cpp
+  PapyrusClass.cpp
+  PapyrusCell.cpp
+  PapyrusCamera.cpp
+  PapyrusBook.cpp
+  PapyrusArt.cpp
+  PapyrusArmorAddon.cpp
+  PapyrusArmor.cpp
+  PapyrusArgs.cpp
+  PapyrusAmmo.cpp
+  PapyrusAlias.cpp
+  PapyrusActorValueInfo.cpp
+  PapyrusActorBase.cpp
+  PapyrusActor.cpp
+  PapyrusActiveMagicEffect.cpp
+  Generating Code...
+  Compiling...
+  ObScript.cpp
+  NiTypes.cpp
+  NiTextures.cpp
+  NiSerialization.cpp
+  NiRTTI.cpp
+  NiRenderer.cpp
+  NiProperties.cpp
+  NiObjects.cpp
+  NiNodes.cpp
+  NiMaterial.cpp
+  NiLight.cpp
+  NiInterpolators.cpp
+  NiGeometry.cpp
+  NiExtraData.cpp
+  NiControllers.cpp
+  NiAllocator.cpp
+  NiAdditionalGeometryData.cpp
+  InternalTasks.cpp
+  InternalSerialization.cpp
+  InputMap.cpp
+  Generating Code...
+  Compiling...
+  Hooks_UI.cpp
+  Hooks_Threads.cpp
+  Hooks_Scaleform.cpp
+  Hooks_SaveLoad.cpp
+  Hooks_Papyrus.cpp
+  Hooks_ObScript.cpp
+  Hooks_NetImmerse.cpp
+  Hooks_Memory.cpp
+  Hooks_Handlers.cpp
+  Hooks_Gameplay.cpp
+  Hooks_Event.cpp
+  Hooks_DirectInput8Create.cpp
+  Hooks_Diagnostics.cpp
+  Hooks_Debug.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+  Hooks_Data.cpp
+  Hooks_Camera.cpp
+  HashUtil.cpp
+  GlobalLocks.cpp
+  GameUtilities.cpp
+  GameTypes.cpp
+  Generating Code...
+  Compiling...
+  GameThreads.cpp
+  GameStreams.cpp
+  GameSettings.cpp
+  GameRTTI.cpp
+  GameResources.cpp
+  GameReferences.cpp
+  GamePathing.cpp
+  GameObjects.cpp
+  GameMenus.cpp
+  GameInput.cpp
+  GameHandlers.cpp
+  GameForms.cpp
+  GameFormComponents.cpp
+  GameExtraData.cpp
+  GameEvents.cpp
+  GameData.cpp
+  GameCamera.cpp
+  GameBSExtraData.cpp
+  GameAPI.cpp
+  CustomMenu.cpp
+  Generating Code...
+  Compiling...
+  Colors.cpp
+  BSModelDB.cpp
+  Generating Code...
+  skse64.vcxproj -> C:\NVA\skse64\x64\Debug\sksevr_1_3_64.dll
+  Access is denied.
+          0 file(s) copied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: The command "copy "C:\NVA\skse64\x64\Debug\sksevr_1_3_64.dll" "\sksevr_1_3_64.dll" /Y
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: :VCEnd" exited with code 1.

@@ -1,0 +1,16 @@
+﻿  ITypes.cpp
+  ITimer.cpp
+  ISingleton.cpp
+  ISegmentStream.cpp
+  IPrefix.cpp
+  IMutex.cpp
+  IInterlockedLong.cpp
+  IFileStream.cpp
+  IEvent.cpp
+  IErrors.cpp
+  IDirectoryIterator.cpp
+  IDebugLog.cpp
+  IDataStream.cpp
+  IBufferStream.cpp
+  Generating Code...
+  common_vc14.vcxproj -> C:\NVA\skse64\x64_v141\Debug\common_vc14.lib

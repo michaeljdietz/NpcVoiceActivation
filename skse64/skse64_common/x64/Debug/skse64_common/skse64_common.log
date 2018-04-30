@@ -1,0 +1,8 @@
+﻿  Utilities.cpp
+c:\nva\skse64\skse64_common\utilities.cpp(105): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\sysinfoapi.h(436): note: see declaration of 'GetVersionExA'
+  SafeWrite.cpp
+  Relocation.cpp
+  BranchTrampoline.cpp
+  Generating Code...
+  skse64_common.vcxproj -> C:\NVA\skse64\x64\Debug\skse64_common.lib

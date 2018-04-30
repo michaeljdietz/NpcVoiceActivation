@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\nva\skse64\nva_skse_plugin\main.cpp(64): error C2065: 'skse': undeclared identifier
+c:\nva\skse64\nva_skse_plugin\main.cpp(64): error C2227: left of '->QueryInterface' must point to class/struct/union/generic type
+  c:\nva\skse64\nva_skse_plugin\main.cpp(64): note: type is 'unknown-type'
+c:\nva\skse64\nva_skse_plugin\main.cpp(65): error C2065: 'skse': undeclared identifier
+c:\nva\skse64\nva_skse_plugin\main.cpp(65): error C2227: left of '->QueryInterface' must point to class/struct/union/generic type
+  c:\nva\skse64\nva_skse_plugin\main.cpp(65): note: type is 'unknown-type'
+  NpcVoiceActivation.cpp
+c:\nva\skse64\nva_skse_plugin\npcvoiceactivation.cpp(199): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  Npc.cpp
+  CustopmIniFile.cpp
+  TextUtils.cpp
+  Generating Code...
